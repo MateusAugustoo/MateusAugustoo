@@ -43,7 +43,3 @@
 ###
 
 ###
-
-<img src="https://raw.githubusercontent.com/MateusAugustoo/MateusAugustoo/output/snake.svg" alt="Snake animation" />
-
-###
